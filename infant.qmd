@@ -26,7 +26,7 @@ library(ggplot2)
 
 This report analyses data from a Child Health and Development Study 
 conducted in the US 1960-1967.
-
+hvjjbk
 ```{r}
 #| label: import-data
 # add code here to import infant.xlsx
